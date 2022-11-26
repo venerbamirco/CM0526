@@ -1,0 +1,10 @@
+.idea
+__pycache__
+venv
+data
+framesVideo1
+framesVideo2
+framesVideo3
+framesVideo4
+framesVideoCalibration
+
